@@ -53,18 +53,24 @@ Java Backend Developer | Spring Boot | Microservices | Kafka
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vicky99054&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicky99054&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky99054&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
-
-# 📈 Most Used Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky99054&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=vicky99054&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky99054&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
