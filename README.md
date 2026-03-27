@@ -115,10 +115,10 @@ Java + Spring Boot + MySQL
 https://github.com/vicky99054
 
 📧 Email  
-your-email@gmail.com
+vickykumar.ara10email@gmail.com
 
 🌐 LinkedIn  
-(Add your LinkedIn link)
+https://www.linkedin.com/in/vicky-kumar-a659742a1/
 
 ---
 
